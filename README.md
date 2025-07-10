@@ -1,4 +1,4 @@
-#  _**Baú histórico de desenvolvimento de estudos.**_#
+#  _**Baú histórico de desenvolvimento de estudos.**_
 
 ### Inicio das pesquisas em 08/2024.
 
