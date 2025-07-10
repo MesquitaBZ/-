@@ -1,4 +1,3 @@
-# _**Dobro Pozhalovat**_
 # _**Baú histórico de desenvolvimento de estudos.**_
 # Inicio das pesquisas em 08/2024.
 # Este repositório está sendo criado, para iniciar o passo a passo de como utilizar o GitHub
