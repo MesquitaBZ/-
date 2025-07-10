@@ -6,4 +6,4 @@
 # 1.Criar um repositório.
 # 2.Iniciar e gerenciar um novo branch.
 # 3.Alterar um arquivo e fazer commit das alteraçôes no GitHub.
-# 4.Abrir e ralizar merge de uma solicitação de pull.
+# 4.Abrir e realizar merge de uma solicitação de pull.
